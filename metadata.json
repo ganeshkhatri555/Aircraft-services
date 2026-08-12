@@ -1,0 +1,6 @@
+{
+  "name": "AeroFix",
+  "description": "Professional Aviation Maintenance, Repair, Inspection, Troubleshooting & Parts Identification Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
